@@ -1,4 +1,5 @@
 # Velvet Brew Coffee Shop Website
+---
 
 # Project Overview
 This project is a responsive front-end website built to represent a stylish coffee shop. 
@@ -7,7 +8,7 @@ It focuses on clean design, smooth user experience, and visually appealing layou
 ---
 
 # Live Demo Link
-
+- GitHub Pages Link: https://anothile-b.github.io/Velvet-Brew-Coffee-Shop-Website/ 
 ---
 
 # Features
@@ -22,9 +23,9 @@ It focuses on clean design, smooth user experience, and visually appealing layou
 ---
 
 # Technologies Used
-HTML5 – Structure of the website
-CSS3 – Styling and layout design
-JavaScript (3.1%) – Basic interactivity
+- HTML5: Structure of the website
+- CSS3:  Styling and layout design
+- JavaScript: Basic interactivity
 
 ---
 
